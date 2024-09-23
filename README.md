@@ -2,7 +2,7 @@
 
 - 👋 ola meu nome e erik
 - Meu contato e @erik.henrike.oliveira@escola.pr.gov.br
-- 👀 Eu estou eneressado em apreender a programar novas linguagens
+- 👀 Eu estou interessado em apreender a programar novas linguagens
 - 🌱 E estou apreendendo recentemente a progamar scratch e javascript
 
 
